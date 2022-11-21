@@ -5,4 +5,4 @@ TEAM DETAILS :
 TEAM LEADER   - Mukesh Parvinth R
 TEAM MEMBER - Manikandan G
 TEAM MEMBER - Sunil Kumar Yadhav
-TEAM MEMBER - Shaswot Karki
+TEAM MEMBER - Shashwot Karki
